@@ -1,1 +1,0 @@
-This file was added to main after the test2 branch was created.
