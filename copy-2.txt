@@ -1,6 +1,7 @@
 This is the copy-2 text file
+Updated line 7 for scallop
 added with extra data: 
 Lorem ipsum odor amet, consectetuer adipiscing elit. Sem neque penatibus natoque facilisi faucibus fringilla. 
 Vivamus lacinia habitant curae hendrerit ornare litora semper fusce. Interdum non enim facilisi sodales 
 montes sollicitudin. 
-Added in "new-feature" branch sit dapibus platea congue! Himenaeos vel convallis sem quam libero et.
+Added in "new-scallop-1" branch sit dapibus platea congue! Himenaeos vel convallis sem quam libero et.
