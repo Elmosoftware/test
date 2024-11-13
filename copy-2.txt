@@ -2,5 +2,5 @@ This is the copy-2 text file
 added with extra data: 
 Lorem ipsum odor amet, consectetuer adipiscing elit. Sem neque penatibus natoque facilisi faucibus fringilla. 
 Vivamus lacinia habitant curae hendrerit ornare litora semper fusce. Interdum non enim facilisi sodales 
-montes sollicitudin. 
+montes sollicitudin. Changes from Feature One
 Metus in dolor sit dapibus platea congue! Himenaeos vel convallis sem quam libero et.
